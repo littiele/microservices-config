@@ -1,1 +1,1 @@
-# microservices-config
+# spring-netflix-oss-microservices
